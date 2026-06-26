@@ -21,6 +21,7 @@ A **Next.js** web app for browsing, filtering, and exploring a curated directory
 | Area | Technology |
 |------|------------|
 | Framework | [Next.js](https://nextjs.org/) 15 (App Router, Turbopack in dev) |
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 | UI | React 19, Tailwind CSS 3, [Radix UI](https://www.radix-ui.com/) (select, label), [Lucide](https://lucide.dev/) icons |
 | Data | [MongoDB](https://www.mongodb.com/) via [Mongoose](https://mongoosejs.com/) 8 |
 | Media | [Cloudinary](https://cloudinary.com/) (optional; used by the persistent submit API) |
